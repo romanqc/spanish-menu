@@ -1,0 +1,109 @@
+body {
+  background-color: white;
+}
+
+#theHead {
+    list-style-type: none;
+    margin: -10px 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #D25900;
+    position: fixed;
+    width: 100%;
+    font-family: arial;
+    border-style: solid;
+}
+
+.rHead {
+  float: right;
+  width: 8%;
+  height: 50%;
+}
+
+.lefty {
+  float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+    float: center;
+}
+
+li a:hover {
+    background-color: #13B702;
+}
+
+#picture {
+  float: center;
+  width: 100%;
+  height: 1200px;
+}
+
+.theFood{
+  margin: -30px;
+  background-color: yellow;
+  text-align: center;
+}
+
+.food{
+  height: 500px;
+  width: 770px;
+}
+
+ul{
+  list-style-type: none;
+  list-style-type: none;
+  float: left;
+}
+
+li {
+  float: left;
+}
+
+#sumthin {
+  float: left;
+}
+.bglol{
+  margin-top: -27px;
+  background-color: yellow;
+  padding-bottom: 295px;
+  border: solid black;
+}
+
+.fontt {
+  font-weight: bold;
+}
+.platillos{
+  background-color: lightblue;
+  text-align: center;
+}
+#theContent {
+  margin-top: -40px;
+}
+
+.sopas {
+  text-align:center;
+  margin-top: -30px;
+  background-color: #AB6DFF;
+}
+
+.bebidas {
+  text-align:center;
+  margin-top: -30px;
+  background-color: #FF6DC7;
+}
+.postres{
+  text-align:center;
+  margin-top: -30px;
+  background-color: #FF6D6D;
+}
+.haha{
+  text-align: center;
+  background-color: #7AFF6D;
+  margin-top: -10px;
+  display: block;
+}
